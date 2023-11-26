@@ -1,9 +1,7 @@
 # RobotFramework
-POM framework using Robot Framework
+POM project using Robot Framework
 
-Robot Framework is useful for people who have less coding knowledge or don't want to code more as there Framework becomes more complex. 
-
-This framework uses following: 
+This framework uses: 
 1) POM design pattern
 2) Data driven testing - using DataDriver for Robot Framework
 3) KeyWord driven testing
