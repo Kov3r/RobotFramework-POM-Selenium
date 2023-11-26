@@ -8,8 +8,7 @@ This project uses:
 4) Reporting build using existing robotFramework
 5) Batch files for execution of scripts
 6) Auto screenshots on failure
-7) pip command used to install followin:
- Selenium Library, Intellibot jar and robotframework
+7) pip commands are used to install Selenium Library, Intellibot jar and robotframework
 8) Locators are saved in PageObjects
 9) Keywords are saved in Resources
 10) Test scenarios are stored in TestCases
