@@ -4,7 +4,7 @@ POM project using Robot Framework
 This project uses: 
 1) POM design pattern
 2) Data driven testing - using DataDriver for Robot Framework
-3) KeyWord driven testing
+3) Keyword driven testing
 4) Reporting build using existing robotFramework
 5) Batch files for execution of scripts
 6) Auto screenshots on failure
