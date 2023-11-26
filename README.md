@@ -1,4 +1,4 @@
-# RobotFramework
+# Robot Framework
 POM project using Robot Framework
 
 This project uses: 
